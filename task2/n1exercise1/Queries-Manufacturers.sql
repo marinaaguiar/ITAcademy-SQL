@@ -1,3 +1,5 @@
+USE Manufacturers;
+
 -- 1. List the name of all the products in the product table.
 SELECT name
 FROM product;
